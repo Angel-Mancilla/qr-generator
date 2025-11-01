@@ -1,2 +1,7 @@
 # qr-generator
-Genera images de codigos qr con extension png que se extraen de archivos con extension csv.
+Requisitos:
+Python 3.6 o superior
+
+Instalar dependencias:
+
+pip install qrcode pillow
